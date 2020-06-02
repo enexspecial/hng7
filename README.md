@@ -1,1 +1,3 @@
 # hng7
+
+#LIST OF GITHUB COMMAND TO USE
